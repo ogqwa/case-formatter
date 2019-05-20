@@ -1,0 +1,25 @@
+{
+  "name": "case-formatter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "tsc",
+    "build": "tsc"
+  },
+  "keywords": [
+    "string",
+    "text",
+    "formatter",
+    "camel",
+    "snake",
+    "pascal",
+    "kebab",
+    "case"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.4.5"
+  }
+}
