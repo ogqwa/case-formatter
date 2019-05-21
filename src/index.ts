@@ -1,3 +1,3 @@
-import * as caseFormatter from './formatter';
+import { camelToSnake, camelToKebab, camelToPascal, snakeToCamel, snakeToKebab, snakeToPascal, kebabToCamel, kebabToSnake, pascalToCamel, pascalToSnake, pascalToKebab } from './formatter';
 
-export default caseFormatter;
+export { camelToSnake, camelToKebab, camelToPascal, snakeToCamel, snakeToKebab, snakeToPascal, kebabToCamel, kebabToSnake, pascalToCamel, pascalToSnake, pascalToKebab }
