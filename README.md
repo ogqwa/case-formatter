@@ -9,11 +9,11 @@ It can canvert below cases each other.
 ## Usage
 
 ```
-const formatter = require('case-formatter');
+import caseFormatter from 'case-formatter';
 
-formatter.snakeToCamel('sample_text');
+caseFormatter.snakeToCamel('sample_text');
 // => sampleText
-formatter.snakeToCamel({ sample_text: 123 });
+caseFormatter.snakeToCamel({ sample_text: 123 });
 // => { sampleText: 123 }
 ```
 
