@@ -1,9 +1,13 @@
 {
   "name": "case-formatter",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wogayu/case-formatter-js"
+  },
   "scripts": {
     "prepare": "tsc",
     "build": "tsc"
