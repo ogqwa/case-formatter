@@ -6,7 +6,7 @@
   "types": "lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wogayu/case-formatter-js"
+    "url": "https://github.com/wogayu/case-formatter"
   },
   "scripts": {
     "prepare": "tsc",
